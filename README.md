@@ -12,12 +12,6 @@ I'm a Full Stack Developer.
 
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="max-width: 100%;"/> <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900.svg?style=for-the-badge&logo=Amazon-ECS&logoColor=white" alt="Amazon ECS" style="max-width: 100%;"/> <img src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white" alt="Amazon S3" style="max-width: 100%;"/>
 
-## 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amywlchong&repo=final-portfolio-project)](https://github.com/amywlchong/final-portfolio-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amywlchong&repo=typescript-projects)](https://github.com/amywlchong/typescript-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amywlchong&repo=full-stack-open)](https://github.com/amywlchong/full-stack-open)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amywlchong&repo=algorithms-princeton)](https://github.com/amywlchong/algorithms-princeton)
-
 ## 🌱 I’m currently learning:
 
 Advanced concepts in Full Stack Development
